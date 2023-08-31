@@ -1,8 +1,6 @@
-Flask
-flask_cors
-keras
 numpy
-pandas
+Pillow
 Pillow
 streamlit
+streamlit_option_menu
 tensorflow
